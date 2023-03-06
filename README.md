@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a Computer Science student at Lahore University of Management Sciences, Lahore.
+
+👨🏻‍💻 Technologies:
+
+⚡ When I am not in front of my laptop programming, I enjoy reading poetry 📖 and swimming 🏊.
+
+Get in touch!
+📧 Email: 23100206@lums.edu.pk
+👨🏻‍💼 LinkedIn: https://www.linkedin.com/in/umar-saeed-cheema/
