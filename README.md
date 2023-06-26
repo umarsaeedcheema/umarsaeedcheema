@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm a Computer Science student at Lahore University of Management Sciences, Lahore.
 
-⚡ When I am not in front of my laptop programming, I enjoy reading poetry 📖 and swimming 🏊.
+⚡ When I am not in front of my laptop programming, I enjoy reading books, poetry 📖 and swimming 🏊.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarsaeedcheema&label=Profile%20views&color=0e75b6&style=flat" alt="umarsaeedcheema" /> </p> -->
 
