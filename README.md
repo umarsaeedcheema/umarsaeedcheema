@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 I'm a Computer Science student at Lahore University of Management Sciences, Lahore.
-
-⚡ When I am not in front of my laptop programming, I enjoy reading books, poetry 📖 and swimming 🏊.
 -->
+⚡ When I am not in front of my laptop programming, I enjoy doing calligraphy and playing FIFA.
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarsaeedcheema&label=Profile%20views&color=0e75b6&style=flat" alt="umarsaeedcheema" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umarsaeedcheema" alt="umarsaeedcheema" /></a> </p> -->
