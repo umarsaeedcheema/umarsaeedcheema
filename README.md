@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-I'm a Computer Science student at Lahore University of Management Sciences, Lahore.
+
 -->
+I'm a FullStack Software Engineer, did my bachelors in Computer Science from Lahore University of Management Sciences, Pakistan. </br>
 ⚡ When I am not in front of my laptop programming, I enjoy doing calligraphy and playing FIFA.
 
 
