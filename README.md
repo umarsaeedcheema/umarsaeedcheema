@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 
 -->
-I'm a FullStack Software Engineer, did my bachelors in Computer Science from Lahore University of Management Sciences, Pakistan. </br>
-⚡ When I am not in front of my laptop programming, I enjoy doing calligraphy and playing FIFA.
+I'm a FullStack Software Engineer</br>
+When I am not in front of my laptop programming, I enjoy doing calligraphy and playing FIFA.
 
 
 <!--
