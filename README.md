@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 
 -->
-I'm a FullStack Software Engineer</br>
-When I am not in front of my laptop programming, I enjoy doing calligraphy and playing FIFA.
+Hi there! I'm Umar Saeed Cheema, a passionate Full-Stack Software Engineer who loves building innovative solutions.
+With experience in cutting-edge technologies, I focus on crafting efficient and scalable web applications. When I’m not immersed in coding, you’ll likely find me honing my skills in calligraphy or playing a competitive match of FIFA. Explore my projects and feel free to connect.
 
 
 <!--
