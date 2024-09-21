@@ -13,12 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 -->
-Hi there! I'm Umar Saeed Cheema, a passionate Full-Stack Software Engineer who loves building innovative solutions.
-With experience in cutting-edge technologies, I focus on crafting efficient and scalable web applications. When I’m not immersed in coding, you’ll likely find me honing my skills in calligraphy or playing a competitive match of FIFA. Explore my projects and feel free to connect.
 
+A passionate Full-Stack Software Engineer who loves building innovative solutions.
+With experience in cutting-edge technologies, I focus on crafting efficient and scalable web applications. When I’m not immersed in coding, you’ll likely find me honing my skills in calligraphy or playing a match of FIFA. Explore my projects and feel free to connect.
 
 <!--
 - 🔭 I’m currently working on [Open Data Pakistan](https://opendata.com.pk/)
