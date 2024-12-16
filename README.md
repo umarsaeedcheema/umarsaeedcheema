@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Software Engineer who enjoys solving real problems through thoughtful software design. I focus on creating practical solutions that make a difference and love learning new things along the way.
 
-A passionate Full-Stack Software Engineer who loves building innovative solutions.
-With experience in cutting-edge technologies, I focus on crafting efficient and scalable web applications. When I’m not immersed in coding, you’ll likely find me honing my skills in calligraphy or playing a match of FIFA. Explore my projects and feel free to connect.
+In my free time, I practice calligraphy and play FIFA.
 
 <!--
 - 🔭 I’m currently working on [Open Data Pakistan](https://opendata.com.pk/)
